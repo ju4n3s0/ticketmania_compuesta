@@ -1,0 +1,9 @@
+tarifa,cantidad,total
+general,1,80000
+general,2,160000
+occidental,1,120000
+occidental,3,360000
+preferencial,2,360000
+preferencial,4,720000
+vip,1,350000
+vip,2,700000

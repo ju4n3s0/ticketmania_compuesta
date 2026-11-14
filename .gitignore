@@ -2,3 +2,9 @@
 pruebas/jmeter/resultados.jtl
 pruebas/jmeter/reporte/
 pruebas/jmeter/jmeter.log
+
+pruebas/experimentacion/*.jtl
+pruebas/experimentacion/reporte*/
+pruebas/experimentacion/jmeter.log
+
+pruebas/experimentacion/recursos.txt
